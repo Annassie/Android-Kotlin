@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent Example</string>
+    // a)
+    // MainActivity:ssa
+    // val title = resources.getString(R.string.choose_text)
+    <string name="choose_text">Choose</string>
+
+    // b)
+    // val title = "Choose" // HUONO! älä hardkoodaa tekstiä koodiin!!
+</resources>

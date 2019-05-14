@@ -1,0 +1,27 @@
+[
+  {
+    "name": "European union",
+    "flag": ["european-inion"]
+  },
+  {
+    "name": "Argentina",
+    "flag": ["argentina"]
+  },
+  {
+    "name": "France",
+    "flag": ["france"]
+  },
+  {
+    "name": "Macao",
+    "flag": ["macao"]
+  },
+  {
+    "name": "Saudi Arabia",
+    "flag": ["saudi-arabia"]
+  },
+  {
+    "name": "South Africa",
+    "flag": ["south-africa"]
+  }
+
+]
